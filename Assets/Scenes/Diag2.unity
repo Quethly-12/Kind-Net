@@ -1206,7 +1206,7 @@ MonoBehaviour:
   nameText: {fileID: 1385692846}
   dialogueText: {fileID: 1864177617}
   dialogue:
-    name: 'Kind Net: The Power of Online Positivity!'
+    name: 'Kind Dumo: The Power of Online Positivity!'
     sentences:
     - "People take the high road by applying the concept of \u201Ctreat others as
       you would like to be treated\u201D to their actions online."
