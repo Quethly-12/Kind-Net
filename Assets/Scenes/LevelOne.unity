@@ -14699,19 +14699,19 @@ MonoBehaviour:
   nameText: {fileID: 2016745280}
   dialogueText: {fileID: 1501187046}
   dialogue:
-    name: 'Kind Net: The Power of Online Positivity!'
+    name: 'Kind Dumo: The Power of Online Positivity!'
     sentences:
-    - 'In order to fight cyberbullying we need to change the culture in which it
-      happens, it will be prevented when the power of a community is brought together.  '
+    - 'In order to fight negativity, we need to change the culture in which, 
+        it will be prevented when the power of a community is brought together.  '
     - 'With kindness, anyone can make huge difference in turning bad situations around.
 
 '
     - "It\u02BCs important to remind ourselves that behind every username is a real
       person with real feelings, and we should treat them as we would want to be
       treated. \r"
-    - "-Use the power of the Internet to spread positivity.\r\n-Stop the spread of
-      harmful or untrue messages by not passing them on to others.\r\n-Respect others\u2019
-      differences."
+    - "-Use the power of positivity to overcome negativity in the game world.\r\n
+        -Stop the spread of negativity by choosing not to engage with or pass on harmful messages.\r\n
+        -Celebrate and respect the differences of others to build a stronger, more supportive community."
   sceneName: EndScene
 --- !u!4 &1070430262
 Transform:
@@ -14987,7 +14987,7 @@ MonoBehaviour:
     - This is you! You know that vibes are contagious and you want to spread positive
       ones!
     - This is your Enemy! A troublemaker that spreads negativity everywhere!
-    - Collect Gems and send kindness to internauts who need support!
+    - Collect Gems and send kindness and positivity to internauts who need support!
   sceneName: 
   cameras:
   - {fileID: 1515167632}
