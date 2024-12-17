@@ -1208,10 +1208,8 @@ MonoBehaviour:
   dialogue:
     name: 'Kind Dumo: The Power of Online Positivity!'
     sentences:
-    - "People take the high road by applying the concept of \u201Ctreat others as
-      you would like to be treated\u201D to their actions online."
-    - The best act is creating positive impact for others and disempowering bullying
-      behavior.
+    - "Players follow the principle of “treat others as you would like to be treated” by spreading kindness and empathy throughout the game world."
+    - The best way to win is by creating a positive impact for others, uplifting them, and disempowering negativity or bullying behaviors.
   sceneName: LevelOne
 --- !u!4 &1198654646
 Transform:
