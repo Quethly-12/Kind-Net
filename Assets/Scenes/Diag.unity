@@ -762,14 +762,11 @@ MonoBehaviour:
   nameText: {fileID: 1987816146}
   dialogueText: {fileID: 716000709}
   dialogue:
-    name: Welcome to Kind Net!
+    name: Welcome to Kind Dumo!
     sentences:
-    - It's a 2D Game that teaches kids the fundamentals of digital citizenship so
-      they can explore the online world with confidence.
-    - The digital world creates new challenges and opportunities for social interaction,
-      for kids and all the rest of us.
-    - 'The Internet is a powerful amplifier that can be used to spread positivity
-      or negativity. '
+    - It's a 2D game that demonstrates how spreading positivity can uplift others, lighten their mood, and help them overcome negativity.
+    - Players spread kindness and positive energy to help characters affected by negativity regain happiness and confidence.
+    - Kids learn the importance of spreading kindness, handling negativity, and realizing that enemies cannot bother them when they stay positive and confident.
   sceneName: Diag2
 --- !u!4 &1452456003
 Transform:
